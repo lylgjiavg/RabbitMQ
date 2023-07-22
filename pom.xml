@@ -27,7 +27,7 @@
         <dependency>
             <groupId>com.rabbitmq</groupId>
             <artifactId>amqp-client</artifactId>
-            <version>3.6.5</version>
+            <version>4.8.0</version>
         </dependency>
 
         <!-- 上边引入 parent，因此 下边无需指定版本 -->
